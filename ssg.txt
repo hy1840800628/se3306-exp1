@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>SSG 文章列表</title>
+  </head>
+  <body>
+    <h1>文章列表</h1>
+    <article><h2>文章标题1</h2><p>这是第1篇文章的正文内容...</p></article><article><h2>文章标题2</h2><p>这是第2篇文章的正文内容...</p></article><article><h2>文章标题3</h2><p>这是第3篇文章的正文内容...</p></article><article><h2>文章标题4</h2><p>这是第4篇文章的正文内容...</p></article><article><h2>文章标题5</h2><p>这是第5篇文章的正文内容...</p></article><article><h2>文章标题6</h2><p>这是第6篇文章的正文内容...</p></article><article><h2>文章标题7</h2><p>这是第7篇文章的正文内容...</p></article><article><h2>文章标题8</h2><p>这是第8篇文章的正文内容...</p></article><article><h2>文章标题9</h2><p>这是第9篇文章的正文内容...</p></article><article><h2>文章标题10</h2><p>这是第10篇文章的正文内容...</p></article>
+  </body>
+</html>
